@@ -23,6 +23,6 @@ I'm best known for [Burnd](https://github.com/garvitsurana271/burnd) — an open
 
 **Stack I move fastest in:** TypeScript, React, Vite, Node, Tailwind, Firebase, Three.js / R3F, Capacitor, ONNX-Runtime-Web, Web Audio API, GSAP. Direct Claude API integration in production.
 
-**Find me:** [Portfolio](https://garvit-surana.vercel.app) · [npm](https://www.npmjs.com/~garvitsurana271) · dev@409.ai
+**Find me:** [Portfolio](https://garvit-surana.vercel.app) · [npm](https://www.npmjs.com/~garvitsurana271) · garvitsurana10@gmail.com
 
 I read papers before I write libraries. I ship things people actually use. I think most software is too generic to be remembered, so I try to make mine specific enough to matter.
