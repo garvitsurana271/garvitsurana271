@@ -1,13 +1,13 @@
 ### Garvit Surana
 
-Builder. Class XII ISC at Sanskriti The Gurukul, Guwahati, India. I write production-grade software where research depth and shipped product meet.
+Class XII ISC at Sanskriti The Gurukul, Guwahati, India. I build open-source developer tools and on-device AI.
 
-I'm best known for [Burnd](https://github.com/garvitsurana271/burnd) — an open-source CLI that detects cost-leak patterns in Claude Code session logs. It hit 1,300 npm installs in its first 48 hours and now sits in the dev-tools dependency graph for engineers who care where their LLM spend goes.
+My most public project is [Burnd](https://github.com/garvitsurana271/burnd) — an open-source CLI that ranks cost-leak patterns in Claude Code session logs by dollar value. It hit 1,305 npm installs in its first 48 hours and runs at ~2,000 monthly installs.
 
 **Currently building:**
-- [Burnd](https://github.com/garvitsurana271/burnd) — local-first cost-control tool for Claude Code. TypeScript + Node, MIT, 8 detector engine. `npx getburnd`.
-- [KropScan](https://github.com/garvitsurana271/kropscan) — offline-first AI crop disease detection PWA. Hybrid 3-tier inference (ONNX-WASM local → Gemma cloud → graceful fallback). 3rd place + ₹1,00,000 at Masters' Union AI Hackathon 2026 (200+ teams).
-- AuraSound — Windows app that turns smartphones into a calibrated 5.1 surround speaker array via audio multilateration. RFC 5905 NTP probes, Huygens-validated to ±5 cm, missing-fundamental harmonic synthesis using Schouten residue weights. Research-grade DSP.
+- [Burnd](https://github.com/garvitsurana271/burnd) — local-first cost-control tool for Claude Code. TypeScript + Node, MIT, 9-detector engine. `npx getburnd`.
+- [KropScan](https://github.com/garvitsurana271/kropscan) — offline-first AI crop disease detection PWA. Hybrid 3-tier inference (ONNX-WASM local → Gemma cloud → graceful fallback). 3rd place + ₹1,00,000 at Masters' Union AI Hackathon 2026.
+- AuraSound — Windows app that turns smartphones into a calibrated 5.1 surround speaker array via audio multilateration. RFC 5905 NTP probes for clock sync, Huygens equations for geometry, Schouten residue weights for missing-fundamental synthesis. Multilateration measured to ±5 cm.
 
 **Portfolio:** [garvit-surana.vercel.app](https://garvit-surana.vercel.app)
 
@@ -21,8 +21,6 @@ I'm best known for [Burnd](https://github.com/garvitsurana271/burnd) — an open
 - SOF Olympiads — International ranks 408 (English), 502 (Cyber), 855 (Science)
 - LogIQids — International rank 34, State rank 10
 
-**Stack I move fastest in:** TypeScript, React, Vite, Node, Tailwind, Firebase, Three.js / R3F, Capacitor, ONNX-Runtime-Web, Web Audio API, GSAP. Direct Claude API integration in production.
+**Stack:** TypeScript, React, Vite, Node, Tailwind, Firebase, Three.js / R3F, Capacitor, ONNX-Runtime-Web, Web Audio API, GSAP, Claude API.
 
 **Find me:** [Portfolio](https://garvit-surana.vercel.app) · [npm](https://www.npmjs.com/~garvitsurana271) · garvitsurana10@gmail.com
-
-I read papers before I write libraries. I ship things people actually use. I think most software is too generic to be remembered, so I try to make mine specific enough to matter.
