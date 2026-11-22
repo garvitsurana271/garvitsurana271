@@ -30,7 +30,7 @@ I build systems software and on-device AI. Class XII (ISC) at Sanskriti The Guru
 
 <br clear="left"><br>
 
-<img src="assets/kropscan.svg" width="64" align="left" alt="KropScan">
+<img src="assets/kropscan.png" width="64" align="left" alt="KropScan">
 
 **KropScan**: offline-first crop disease detection for farmers with poor connectivity. Three-tier inference: ONNX on the device, Gemma in the cloud, graceful fallback between them.
 
